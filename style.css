@@ -82,4 +82,8 @@ footer {
   .stepboxes:last-child {
     margin-right: auto;
   }
+
+  .text {
+    font-size: 12px;
+  }
 }
